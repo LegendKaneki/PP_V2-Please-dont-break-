@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "632b04aa-47d4-457f-9ad0-273a6e69ef33",
+            "Value": {
+                "id": "7681ffbc-3c33-4829-8198-b56eea1434f7",
+                "resourcePath": "objects\\obj_resolution_control\\obj_resolution_control.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "81cef92e-6885-4d3f-8552-27aac1337b70",
             "Value": {
                 "id": "3104b073-99c1-4f1d-a0dc-7a0ce5f085bc",
