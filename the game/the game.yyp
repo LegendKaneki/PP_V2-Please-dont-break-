@@ -282,7 +282,7 @@
             "Key": "f524a1b8-77c4-434b-827b-8779563c06bc",
             "Value": {
                 "id": "be057c48-ff58-4362-bac6-2b163a7b747d",
-                "resourcePath": "scripts\\gl\\gl.yy",
+                "resourcePath": "scripts\\scr_place_move_thing\\scr_place_move_thing.yy",
                 "resourceType": "GMScript"
             }
         },
