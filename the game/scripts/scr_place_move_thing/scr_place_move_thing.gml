@@ -11,7 +11,7 @@ for(i = 0; i < 18; i += 1;)
 	{
 		if(patch_get_length(global.navigate) <= global.selected.pixel_dist)
 		{
-		  instance_create (ix,row,obj_move_thing);	
+		  instance_create_layer(ix,ove_thing);	
 		}
 	}
 	if(row > 320)
